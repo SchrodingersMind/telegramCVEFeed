@@ -6,7 +6,7 @@ Monitor nvd.nist.gov for new or modified cve records and receive daily reports i
 
 ### TODO
  * Add more OOP
- * Send cves that created since last day
+ * Send cves that were created since day of last notification
  * Add exclusion keywords
 
 ### How it looks
